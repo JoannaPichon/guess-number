@@ -1,9 +1,34 @@
 .bravo {
-			color: green;
-		}
-		.grand {
-			color: #32a8a8;
-		}
-		.petit {
-			color: #05526e;
-		}
+	color: green;
+}
+.grand {
+	color: #32a8a8;
+}
+.petit {
+	color: #05526e;
+}
+
+.container {
+	width: 80%;
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+input {
+	width: 100%;
+	margin: 0 auto 10px;
+}
+
+h1 {
+	text-align: center;
+}
+
+button {
+	display: block;
+	margin:0 auto;
+}
+
+p {
+	text-align: center;
+	display: block;
+}
